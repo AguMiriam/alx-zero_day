@@ -1,1 +1,1 @@
-My first readme as a progressing alx student
+My first readme as an alx student
